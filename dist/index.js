@@ -1,0 +1,1 @@
+var carName="Volvo",mbName="Iphone";alert(carName+" "+mbName);

@@ -1,0 +1,16 @@
+@import 'reset';
+@import 'variables';
+
+h1 {
+    color: $main-color
+}
+
+.col {
+    width: 80%;
+    background: $main-color;
+}
+
+.col p {
+    color: whitesmoke;
+    background: $main-color;
+}
